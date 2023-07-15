@@ -4,8 +4,8 @@
 
 /* ROOM */
 
-const roomName = "[BOT] 4v4 gana sigue";
-const botName = "Árbitro Fachero";
+const roomName = "[BOT] 4ᴠ4 ⭐";
+const botName = "Asterisko sin o";
 const maxPlayers = 30;
 const roomPublic = true;
 const geo = [{"code": "CL", "lat": -35.6, "lon": -71.5}];
